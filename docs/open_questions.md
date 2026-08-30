@@ -8,3 +8,8 @@
     - *Free Builds*: Your gear/abilities define your "class" (e.g., brawler build vs. scout build).
     - *Discussion*: How heavily should we lean into formal classes vs. emergent builds?
 - **Build Inspiration**: Which games have the best build systems (abilities, experience, etc.) that we want to draw from?
+
+## API & User Experience
+- **The "Doing it for them" Balance**: How much of the operational burden (e.g., handling 429s, optimizing call efficiency) should be managed by the API versus left to the player's bot?
+    - *Guiding Question*: "Are we doing it for them?"
+    - *Goal*: Find the balance between a frustrating experience and a challenge that rewards technical optimization.
