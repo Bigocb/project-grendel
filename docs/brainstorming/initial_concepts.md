@@ -20,3 +20,4 @@
 
 ### Ideas & Mechanics
 - **Skill Trees**: Interest in implementing skill trees for progression/specialization.
+- **ARPG Translation**: Translating "clicky" ARPG mechanics into "POST-y" API interactions.
