@@ -3,6 +3,10 @@
 ## Core Mechanics
 - **Battle Style & Mechanics**: What style of battle are we using? What are the specific battle mechanics we want to implement? (e.g., Turn-based, Real-time with cooldowns, Atomic/Single-call, Multi-step/Resource-based).
     - *Current Discussion*: Real-time action vs. Turn-based?
+- **Combat Translation (The "Tactile Gap")**: How do we translate action-oriented combat into a non-visual, API-driven medium?
+    - *Challenge*: Replacing visual/tactile feedback (swinging a sword) with request/response cycles.
+    - *Question*: How do we make sending requests and waiting for responses feel like a "fun" combat experience?
+    - *Fundamental Question*: Is "combat" the right conceptual direction for an API-only game, or should the primary conflict be framed differently?
 - **Class System**: How structured is the class system?
     - *Hard Classes*: Defined classes with specific gating.
     - *Free Builds*: Your gear/abilities define your "class" (e.g., brawler build vs. scout build).
