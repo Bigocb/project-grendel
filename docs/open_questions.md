@@ -7,6 +7,10 @@
     - *Challenge*: Replacing visual/tactile feedback (swinging a sword) with request/response cycles.
     - *Question*: How do we make sending requests and waiting for responses feel like a "fun" combat experience?
     - *Fundamental Question*: Is "combat" the right conceptual direction for an API-only game, or should the primary conflict be framed differently?
+- **Alternative Directions to Combat**:
+    - *Survival*: Would survival mechanics (resource management, environment pressure) translate well to an API design?
+    - *Exploration*: Could the focus be on discovery/exploration, where combat is a secondary/simplified event (e.g., TTRPG-style dice rolls) rather than a core tactile loop?
+    - *TTRPG Influence*: Looking at TTRPGs as a primary reference for engaging gameplay without visuals.
 - **Class System**: How structured is the class system?
     - *Hard Classes*: Defined classes with specific gating.
     - *Free Builds*: Your gear/abilities define your "class" (e.g., brawler build vs. scout build).
