@@ -15,3 +15,4 @@
 - **Baldur's Gate**: (Likely depth of rules, tactical combat, or party dynamics)
 - **Guild Wars 2**: (Likely horizontal progression, world events, or unique class combos)
 - **Diablo**: (Likely loot loops, build archetypes, and "numbers go up" power fantasy)
+- **Minecraft Dungeons**: Specifically the gear and gear upgrade systems.
