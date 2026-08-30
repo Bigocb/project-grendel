@@ -18,6 +18,12 @@
     - *Non-Combat Classes*: If we go broad, how do non-combat classes function? What is their primary "loop"?
 - **Build Inspiration**: Which games have the best build systems (abilities, experience, etc.) that we want to draw from?
 
+## Automation & Botting
+- **Automation as a Pillar**: How does the "fun of automation" (core to SpaceTraders) fit into a game that isn't based on economy, construction, or factories?
+    - *Question*: Should "writing the bot" be a primary pillar of the game design, or a secondary tool for convenience?
+    - *Challenge*: Identifying "bot-worthy" loops in an RPG (e.g., automating the search for specific loot, optimal pathing for XP, or complex build-switching based on world state).
+    - *Balance*: How to reward clever automation without making manual/thoughtful play obsolete?
+
 ## Onboarding & First-Hour Experience
 - **The "Then What?" Problem**: In an open world with complex classes/skill trees, what is the immediate goal after character registration?
     - *Challenge*: How do we guide a bot-player from "Account Created" to "Meaningful Loop" without a visual tutorial?
