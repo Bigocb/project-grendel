@@ -15,7 +15,13 @@
     - *Hard Classes*: Defined classes with specific gating.
     - *Free Builds*: Your gear/abilities define your "class" (e.g., brawler build vs. scout build).
     - *Discussion*: How heavily should we lean into formal classes vs. emergent builds?
+    - *Non-Combat Classes*: If we go broad, how do non-combat classes function? What is their primary "loop"?
 - **Build Inspiration**: Which games have the best build systems (abilities, experience, etc.) that we want to draw from?
+
+## Onboarding & First-Hour Experience
+- **The "Then What?" Problem**: In an open world with complex classes/skill trees, what is the immediate goal after character registration?
+    - *Challenge*: How do we guide a bot-player from "Account Created" to "Meaningful Loop" without a visual tutorial?
+    - *Question*: What is the first "verb" the user should execute that makes the world feel real?
 
 ## API & User Experience
 - **The "Doing it for them" Balance**: How much of the operational burden (e.g., handling 429s, optimizing call efficiency) should be managed by the API versus left to the player's bot?
