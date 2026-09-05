@@ -9,6 +9,7 @@
 - Interest in build-testing against enemies.
 - Gear loop: Blacksmithing/Upgrading old gear.
 - Economic loop: Trading.
+- **Conflict Architecture:** Settled on a "Macro/Micro" duality (Commander/Delver), inspired by SC2. Combines TTRPG build depth (Macro) with a Tactical State Machine (Micro).
 
 ## Mechanical Inspiration
 ### Referenced Games
